@@ -1,0 +1,11 @@
+E:\ForWorking\YandexDisk\3_kyrs\ПП\Sadovinki\Sadovinki\bin\Release\Sadovinki.exe.config
+E:\ForWorking\YandexDisk\3_kyrs\ПП\Sadovinki\Sadovinki\bin\Release\Sadovinki.exe
+E:\ForWorking\YandexDisk\3_kyrs\ПП\Sadovinki\Sadovinki\bin\Release\Sadovinki.pdb
+E:\ForWorking\YandexDisk\3_kyrs\ПП\Sadovinki\Sadovinki\obj\Release\Sadovinki.exe
+E:\ForWorking\YandexDisk\3_kyrs\ПП\Sadovinki\Sadovinki\obj\Release\Sadovinki.pdb
+E:\ForWorking\YandexDisk\3_kyrs\ПП\lab5\Sadovinki\Sadovinki\bin\Release\Sadovinki.exe.config
+E:\ForWorking\YandexDisk\3_kyrs\ПП\lab5\Sadovinki\Sadovinki\obj\Release\Sadovinki.exe
+E:\ForWorking\YandexDisk\3_kyrs\ПП\lab5\Sadovinki\Sadovinki\obj\Release\Sadovinki.pdb
+E:\ForWorking\YandexDisk\3_kyrs\ПП\lab5\Sadovinki\Sadovinki\bin\Release\Sadovinki.exe
+E:\ForWorking\YandexDisk\3_kyrs\ПП\lab5\Sadovinki\Sadovinki\bin\Release\Sadovinki.pdb
+E:\ForWorking\YandexDisk\3_kyrs\ПП\lab5\Sadovinki\Sadovinki\obj\Release\Sadovinki.csprojResolveAssemblyReference.cache
